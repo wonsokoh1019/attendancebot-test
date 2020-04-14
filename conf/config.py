@@ -25,22 +25,22 @@ DEFAULT_LANG = 'ja'
 TZone = "Asia/Tokyo"
 
 # account
-ADMIN_ACCOUNT = "admin@xxx.com"
-DOMAIN_ID = 0
+ADMIN_ACCOUNT = "admin@lwbottest"
+DOMAIN_ID = 156307
 
 # api
-API_ID = "kr1EHxxxxfJVz"
-SERVER_CONSUMER_KEY = "To8SnC7sxxxxxjqXZhO"
+API_ID = "kr1HOTNAKgnvZ"
+SERVER_CONSUMER_KEY = "u2FxcdHbKaRI3xgvs_QX"
 
-SERVER_ID = "96460cc1e778402xxxxxfe35fa97ce76"
-SECRET_KEY_NAME = "private_201xxxxx164308.key"
+SERVER_ID = "c02be36bf2aa4c1eb8473c3d084be40b"
+SECRET_KEY_NAME = "private_20200414144534.key"
 
 # LOCAL ADDRESS
-LOCAL_ADDRESS = "https://[Heroku app name].herokuapp.com/"
+LOCAL_ADDRESS = "https://attendancebot-test.herokuapp.com/"
 
 # DB config
-DB_HOST = "ec2-xxx-xxx-xxx-xxx.compute-1.amazonaws.com"
-DB_NAME = "x3mdxxxxsg5nx"
-DB_USER = "xsozxxxxvksikx"
+DB_HOST = "ec2-34-193-232-231.compute-1.amazonaws.com"
+DB_NAME = "d4nn64gmqo12bu"
+DB_USER = "zkngrqkqibsohn"
 DB_PORT = "5432"
-DB_PASSWORD = "xxxxxb3ff80c85d331da880f4b3e0xxxxxxxxxxxd552d64d128317653ce0xxxx"
+DB_PASSWORD = "2a6eb513115bcc84d2f378d88b955b4bbf6f8cadc77c8dc0c69071af39f2d2ab"
